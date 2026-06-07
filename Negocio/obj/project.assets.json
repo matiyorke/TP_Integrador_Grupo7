@@ -27,8 +27,8 @@
   "libraries": {
     "AccesoDatos/1.0.0": {
       "type": "project",
-      "path": "../../AccesoDatos/AccesoDatos.csproj",
-      "msbuildProject": "../../AccesoDatos/AccesoDatos.csproj"
+      "path": "../AccesoDatos/AccesoDatos.csproj",
+      "msbuildProject": "../AccesoDatos/AccesoDatos.csproj"
     },
     "Entidades/1.0.0": {
       "type": "project",
@@ -74,8 +74,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\AccesoDatos\\AccesoDatos.csproj": {
-              "projectPath": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\AccesoDatos\\AccesoDatos.csproj"
+            "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\AccesoDatos\\AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\AccesoDatos\\AccesoDatos.csproj"
             },
             "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\Entidades\\Entidades.csproj"

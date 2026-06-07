@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\AccesoDatos\\AccesoDatos.csproj": {}
+    "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\AccesoDatos\\AccesoDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\AccesoDatos\\AccesoDatos.csproj": {
+    "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\AccesoDatos\\AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\AccesoDatos\\AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\AccesoDatos\\AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\AccesoDatos\\AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\AccesoDatos\\AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\Matías\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\Matías\\Desktop\\UTN - Programación III\\TP_Intregrador\\TP_Integrador_Grupo7\\Solucion_Clinica_Medica\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

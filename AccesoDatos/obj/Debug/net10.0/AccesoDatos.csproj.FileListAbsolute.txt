@@ -9,3 +9,15 @@ C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Gr
 C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\AccesoDatos\obj\Debug\net10.0\refint\AccesoDatos.dll
 C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\AccesoDatos\obj\Debug\net10.0\AccesoDatos.pdb
 C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\AccesoDatos\obj\Debug\net10.0\ref\AccesoDatos.dll
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\bin\Debug\net10.0\AccesoDatos.deps.json
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\bin\Debug\net10.0\AccesoDatos.dll
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\bin\Debug\net10.0\AccesoDatos.pdb
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\AccesoDatos.sourcelink.json
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\AccesoDatos.dll
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\refint\AccesoDatos.dll
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\AccesoDatos.pdb
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\AccesoDatos\obj\Debug\net10.0\ref\AccesoDatos.dll

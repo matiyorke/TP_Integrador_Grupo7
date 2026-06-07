@@ -15,3 +15,4 @@ C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Gr
 C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\Negocio\obj\Debug\net10.0\refint\Negocio.dll
 C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\Negocio\obj\Debug\net10.0\Negocio.pdb
 C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\Negocio\obj\Debug\net10.0\ref\Negocio.dll
+C:\Users\Matías\Desktop\UTN - Programación III\TP_Intregrador\TP_Integrador_Grupo7\Solucion_Clinica_Medica\Negocio\obj\Debug\net10.0\Negocio.sourcelink.json
